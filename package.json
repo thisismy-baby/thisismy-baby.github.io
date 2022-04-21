@@ -1,0 +1,11 @@
+{
+  "name": "thisismy.baby",
+  "version": "0.1.0",
+  "description": "Personal site for sharing baby registry",
+  "main": "index.html",
+  "repository": "https://github.com/thisismy-baby/thisismy-baby.github.io",
+  "license": "GPL 2.0",
+  "dependencies": {
+    "tailwindcss": "^3.0.24"
+  }
+}
