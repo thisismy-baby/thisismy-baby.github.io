@@ -1,6 +1,8 @@
 module.exports = {
+  darkMode: 'dark',
   content: [
-    './index.html'
+    './*.html',
+    'styles.in.css'
   ],
   theme: {
     extend: {},

@@ -3,5 +3,9 @@
 @tailwind utilities;
 
 h1 {
-  @apply text-2xl;
+  /* @apply text-2xl; */
+}
+
+.dark {
+  @apply bg-black text-white;
 }
